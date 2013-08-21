@@ -1,11 +1,13 @@
-Hívd meg ismerőseid űrlap MailMaster segítségével
+## Hívd meg ismerőseid űrlap MailMaster segítségével
 
-## Fájlok
+### Fájlok
 ajanlas-oldal.html : a továbbajánló űrlap
+
 ajanlas-feldolgozo.php : a továbbajánlás elmentését végző szkript.
 
-## Leírás az üzembe helyezéshez
-A továbbajánló rendszerhez két email listát kell létrehozni. 
+### Leírás az üzembe helyezéshez
+A továbbajánló rendszerhez két email listát kell létrehozni.
+
 1. Az elsõ listában kerülnek eltárolásra az ajánló adatai (név, email cím és az ajánlások száma). 
 A mellékelt szkript alapján a következõ mezõket kell felvenni a listába (az email cím már alapértelmezetten benne van a listában):
 keresztnév - mssys_firstname
